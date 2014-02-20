@@ -1,7 +1,7 @@
 {
-  "name": "domify",
-  "version": "1.2.2",
+  "name": "component-domify",
   "description": "turn HTML into DOM elements",
+  "version": "1.2.2",
   "keywords": [
     "dom",
     "html",
@@ -9,16 +9,6 @@
     "browser",
     "component"
   ],
-  "author": "TJ Holowaychuk <tj@vision-media.ca>",
   "dependencies": {},
-  "component": {
-    "scripts": {
-      "domify/index.js": "index.js"
-    }
-  },
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/component/domify.git"
-  }
+  "license": "MIT"
 }
